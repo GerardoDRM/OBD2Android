@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299925215012",
+    "firebase_url": "https://obd2-21613.firebaseio.com",
+    "project_id": "obd2-21613",
+    "storage_bucket": "obd2-21613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299925215012:android:368a488993a99f79",
+        "android_client_info": {
+          "package_name": "com.android.obd2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299925215012-kjcd0b33q6n8isrk2sr5q2gt6lvmbs65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDejH1PzII8lXFErgTDSUqa7PHUcSkfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
